@@ -5,7 +5,8 @@ waveshare 4inch RPi LCD (C) python driver
 dependency
 ------------
 
-waveshare4c_spi.py rely on [spidev](https://pypi.org/project/spidev/)
+[RPi.GPIO](https://sourceforge.net/projects/raspberry-gpio-python/)
+[spidev](https://pypi.org/project/spidev/)
 
 chip
 ------------
