@@ -6,6 +6,7 @@ dependency
 ------------
 
 [RPi.GPIO](https://sourceforge.net/projects/raspberry-gpio-python/)
+
 [spidev](https://pypi.org/project/spidev/)
 
 chip
