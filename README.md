@@ -11,6 +11,7 @@ chip
 ------------
 
 ili9486 for screen
+
 xpt2046 for touch
 
 pinout
